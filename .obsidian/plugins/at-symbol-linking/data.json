@@ -1,0 +1,22 @@
+{
+  "globalTriggerSymbol": "@",
+  "limitLinkDirectories": [],
+  "includeSymbol": false,
+  "showAddNewNote": true,
+  "addNewNoteFolders": [
+    {
+      "folder": "Peoples",
+      "symbol": "@",
+      "template": "Peoples/Peoples"
+    }
+  ],
+  "includeSymbolInNewFileName": false,
+  "addNewNoteTemplateFile": "",
+  "addNewNoteDirectory": "",
+  "useCompatibilityMode": true,
+  "leavePopupOpenForXSpaces": 0,
+  "allowedCodeBlockTypes": [],
+  "invalidCharacterRegex": "[\\[\\]^|#]",
+  "invalidCharacterRegexFlags": "i",
+  "removeAccents": true
+}

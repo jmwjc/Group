@@ -1,0 +1,4 @@
+
+```tasks
+path includes Seminars
+```
