@@ -1,6 +1,6 @@
 # Documents
 ```dataview
-TABLE
+TABLE file.mtime as "Modified time"
 FROM #People/WuJC
 ```
 # Tasks

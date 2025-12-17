@@ -1,13 +1,18 @@
 {
   "globalTriggerSymbol": "@",
-  "limitLinkDirectories": [],
+  "limitLinkDirectories": [
+    {
+      "folder": "People",
+      "symbol": "@"
+    }
+  ],
   "includeSymbol": false,
   "showAddNewNote": true,
   "addNewNoteFolders": [
     {
-      "folder": "Peoples",
+      "folder": "People",
       "symbol": "@",
-      "template": "Peoples/Peoples"
+      "template": "Templates/Person"
     }
   ],
   "includeSymbolInNewFileName": false,

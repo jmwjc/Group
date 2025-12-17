@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Templates",
   "templates_pairs": [
     [
       "",
@@ -16,11 +16,15 @@
   "folder_templates": [
     {
       "folder": "Documents",
-      "template": "Documents/Documents.md"
+      "template": "Templates/Document.md"
     },
     {
       "folder": "Peoples",
-      "template": "Peoples/Peoples.md"
+      "template": "Templates/Person.md"
+    },
+    {
+      "folder": "Seminars",
+      "template": "Templates/Seminar.md"
     }
   ],
   "enable_file_templates": false,

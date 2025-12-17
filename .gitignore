@@ -10,7 +10,7 @@
 # ============================================
 
 # 🔴 必须忽略（个人数据，不共享）
-.obsidian/            # 完全忽略Obsidian配置目录
+# .obsidian/            # 完全忽略Obsidian配置目录
 .trash/              # 回收站
 .trashes/            # 系统回收站
 
@@ -36,7 +36,7 @@ __pycache__/        # Python
 *_optimized.*
 
 # ⚪️ 选择性共享（团队协作时取消注释）
-!.obsidian/community-plugins.json  # 共享插件列表
+# !.obsidian/community-plugins.json  # 共享插件列表
 # !.obsidian/core-plugins.json       # 共享核心插件
 # !.obsidian/app.json                # 共享基础配置
 
