@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "930b26035d9c61b8",
+            "id": "9cac06627b995e6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,34 +35,10 @@
               },
               "icon": "lucide-file",
               "title": "Home"
-            }
-          },
-          {
-            "id": "44f061c399e703e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "47bcc43eb830f6d5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,18 +212,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "47bcc43eb830f6d5",
+  "active": "9cac06627b995e6c",
   "lastOpenFiles": [
+    "People/ZhenJX.md",
+    "Documents/Test.md",
     "Home.md",
+    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
+    "Slides/2021级-吴新瑜-开题报告PPT.pdf",
+    "Slides/2022级-徐洋涛-开题报告PPT.pdf",
+    "People/WuJC.md",
+    "Documents/测试.md",
     "Templates/Document.md",
     "Templates/Person.md",
     "Templates/Seminar.md",
-    "People/WuJC.md",
     "Documents/测试2.md",
     "Untitled.md",
     "Templates",
     "WuJC.md",
-    "Documents/测试.md",
     "People",
     "Projects/Test.md",
     "Projects",
@@ -263,10 +244,6 @@
     "Utility/Scripts/Templater/_init_template.js",
     "Utility/Scripts/Dataview/toc.js",
     "Utility/Scripts/Dataview/tasks.js",
-    "Utility/Scripts/Dataview/mentions-table.js",
-    "Utility/Scripts/Dataview/project-progress.js",
-    "Utility/Templates/New note templates",
-    "Documents/Test.md",
     "Templates/People.md",
     "Templates/Templates.md",
     "测试.md",
