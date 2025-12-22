@@ -1,7 +1,7 @@
 ---
 creation_date: 2025-12-22
 ---
- #People/HOCHOYIN  
+#People/WuJC  #People/HOCHOYIN  
 
 ## 插件
 # [Better BibTex](https://retorque.re/zotero-better-bibtex/)

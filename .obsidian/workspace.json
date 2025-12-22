@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "c3a9bd95b040b9ab",
+            "id": "4d2a1101f5c6dbdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Zotero.md",
-                "mode": "source",
+                "file": "People/HOCHOYIN.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zotero"
+              "title": "HOCHOYIN"
             }
           }
         ],
@@ -61,7 +61,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "文件列表"
             }
           },
           {
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#People/",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "搜索"
             }
           },
           {
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 300
   },
   "right": {
     "id": "4e81fa19ba1b7a1e",
@@ -197,39 +197,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 781.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false,
       "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3a9bd95b040b9ab",
+  "active": "4d2a1101f5c6dbdf",
   "lastOpenFiles": [
-    "Documents/常用软件配置.md",
+    "People/ZhenJX.md",
     "Documents/Zotero.md",
-    "Home.md",
-    "未命名.canvas",
+    "Documents/常用软件配置.md",
     "Documents/测试.md",
+    "Home.md",
+    "People/HOCHOYIN.md",
+    "未命名.canvas",
+    "Documents/Test.md",
+    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
     "Slides/2021级-吴新瑜-开题报告PPT.pdf",
     "Slides/2022级-徐洋涛-开题报告PPT.pdf",
-    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
-    "People/ZhenJX.md",
-    "Documents/Test.md",
     "People/WuJC.md",
     "Templates/Document.md",
     "Templates/Person.md",
     "Templates/Seminar.md",
     "Documents/测试2.md",
-    "Untitled.md",
     "Templates",
     "WuJC.md",
     "People",
