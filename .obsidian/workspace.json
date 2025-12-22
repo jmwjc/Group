@@ -24,21 +24,61 @@
             }
           },
           {
-            "id": "4d2a1101f5c6dbdf",
+            "id": "f2b1c00b87110d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/HOCHOYIN.md",
-                "mode": "preview",
+                "file": "Seminars/2025-12-18组会记录.md.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOCHOYIN"
+              "title": "2025-12-18组会记录.md"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b074f607699f16b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6159d367955c0376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seminars/2025-12-18组会记录.md.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-18组会记录.md"
+            }
+          }
+        ]
+      },
+      {
+        "id": "802505ac9089b56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53ac1984b19e0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,17 +213,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peoples/Peoples.md",
+                "file": "Seminars/2025-12-18组会记录.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Peoples 的大纲"
+              "title": "2025-12-18组会记录.md 的大纲"
             }
           },
           {
-            "id": "1ea1a1910324d8d0",
+            "id": "4232734af0333990",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -197,58 +237,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 781.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
+      "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d2a1101f5c6dbdf",
+  "active": "f2b1c00b87110d2e",
   "lastOpenFiles": [
+    "People/HOCHOYIN.md",
     "People/ZhenJX.md",
+    "People/WuJC.md",
+    "People/Qiulh.md",
+    "People/Linym.md",
+    "Seminars/2025-12-18组会记录.md.md",
+    "Home.md",
+    "] 修改悬臂梁出图程序，[[ZhenJX.md",
+    "]修改悬臂梁出图程序，[[ZhenJX.md",
+    "People/+Qiul.md",
+    "未命名",
+    "Templates/Document.md",
+    "Templates/Person.md",
+    "Seminars",
+    "Templates/Seminars/2025-12-18组会记录.md",
+    "Templates/Seminars",
+    "Templates/未命名.md",
+    "Seminars",
+    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
+    "Slides/2021级-吴新瑜-开题报告PPT.pdf",
+    "Slides/~$21级-吴新瑜-中期检查情况表.doc",
+    "Slides/~$21级-吴新瑜-开题报告.doc",
+    "未命名.md",
+    "Seminars",
     "Documents/Zotero.md",
     "Documents/常用软件配置.md",
     "Documents/测试.md",
-    "Home.md",
-    "People/HOCHOYIN.md",
     "未命名.canvas",
     "Documents/Test.md",
-    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
-    "Slides/2021级-吴新瑜-开题报告PPT.pdf",
     "Slides/2022级-徐洋涛-开题报告PPT.pdf",
-    "People/WuJC.md",
-    "Templates/Document.md",
-    "Templates/Person.md",
     "Templates/Seminar.md",
     "Documents/测试2.md",
-    "Templates",
     "WuJC.md",
-    "People",
     "Projects/Test.md",
-    "Projects",
     "Utility/Templates/New note templates/Person.md",
     "People/People.md",
-    "Utility/Templates/@-mention person.md",
-    "Utility/Templates/Tasks menu.md",
-    "Utility/Templates/New note.md",
-    "Utility/Templates/New note templates/Project.md",
-    "Utility/Templates/New note templates/Meeting.md",
-    "Utility/Templates/New note templates/! Default note.md",
-    "Utility/Scripts/Templater/templater_tasks.js",
-    "Utility/Scripts/Templater/_init_template.js",
-    "Utility/Scripts/Dataview/toc.js",
-    "Utility/Scripts/Dataview/tasks.js",
-    "Templates/People.md",
-    "Templates/Templates.md",
-    "测试.md"
+    "Utility/Templates/@-mention person.md"
   ]
 }
