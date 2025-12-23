@@ -33,14 +33,12 @@
             "id": "6159d367955c0376",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Seminars/2025-12-18组会记录.md",
-                "mode": "preview",
-                "source": false
+                "file": "Slides/2022级-徐洋涛-开题报告PPT.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-12-18组会记录"
+              "icon": "lucide-file-text",
+              "title": "2022级-徐洋涛-开题报告PPT"
             }
           }
         ]
@@ -202,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +215,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4232734af0333990",
+  "active": "6159d367955c0376",
   "lastOpenFiles": [
-    "Seminars/2025-12-18组会记录.md.md",
-    "Home.md",
+    "Slides/2022-徐洋涛-毕业论文.pdf",
+    "Slides/Thesis_xyt.pdf",
+    "Slides/2022-徐洋涛-毕业答辩PPT.pdf",
+    "Slides/2022级-徐洋涛-中期PPT.pdf",
+    "Slides/2022级-徐洋涛-中期检查.doc",
+    "Documents/Zotero.md",
     "Seminars/2025-12-18组会记录.md",
+    "Home.md",
+    "Seminars/2025-12-18组会记录.md.md",
     "People/HOCHOYIN.md",
     "People/ZhenJX.md",
     "People/WuJC.md",
@@ -240,21 +244,15 @@
     "Seminars",
     "Slides/2021级-吴新瑜-中期检查PPT.pdf",
     "Slides/2021级-吴新瑜-开题报告PPT.pdf",
-    "Slides/~$21级-吴新瑜-中期检查情况表.doc",
-    "Slides/~$21级-吴新瑜-开题报告.doc",
     "未命名.md",
-    "Seminars",
-    "Documents/Zotero.md",
     "Documents/常用软件配置.md",
     "Documents/测试.md",
     "未命名.canvas",
     "Documents/Test.md",
-    "Slides/2022级-徐洋涛-开题报告PPT.pdf",
     "Templates/Seminar.md",
     "Documents/测试2.md",
     "WuJC.md",
     "Projects/Test.md",
-    "Utility/Templates/New note templates/Person.md",
-    "People/People.md"
+    "Utility/Templates/New note templates/Person.md"
   ]
 }
