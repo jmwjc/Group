@@ -22,26 +22,21 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          }
-        ]
-      },
-      {
-        "id": "b074f607699f16b8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6159d367955c0376",
+            "id": "b67ddcaba1c236f1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Slides/2022级-徐洋涛-开题报告PPT.pdf"
+                "file": "Slides/2022-徐洋涛-毕业论文.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2022级-徐洋涛-开题报告PPT"
+              "title": "2022-徐洋涛-毕业论文"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -73,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "tag:#People/HOCHOYIN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "搜尋"
             }
           },
           {
@@ -113,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "right": {
     "id": "4e81fa19ba1b7a1e",
@@ -176,17 +171,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminars/2025-12-18组会记录.md",
+                "file": "Peoples/Peoples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-18组会记录 的大纲"
+              "title": "Peoples 的大纲"
             }
           },
           {
-            "id": "4232734af0333990",
+            "id": "1ea1a1910324d8d0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -200,59 +195,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6159d367955c0376",
+  "active": "b67ddcaba1c236f1",
   "lastOpenFiles": [
-    "Slides/2022-徐洋涛-毕业论文.pdf",
-    "Slides/Thesis_xyt.pdf",
-    "Slides/2022-徐洋涛-毕业答辩PPT.pdf",
-    "Slides/2022级-徐洋涛-中期PPT.pdf",
-    "Slides/2022级-徐洋涛-中期检查.doc",
-    "Documents/Zotero.md",
-    "Seminars/2025-12-18组会记录.md",
-    "Home.md",
-    "Seminars/2025-12-18组会记录.md.md",
     "People/HOCHOYIN.md",
     "People/ZhenJX.md",
-    "People/WuJC.md",
-    "People/Qiulh.md",
     "People/Linym.md",
-    "] 修改悬臂梁出图程序，[[ZhenJX.md",
-    "]修改悬臂梁出图程序，[[ZhenJX.md",
-    "People/+Qiul.md",
-    "未命名",
     "Templates/Document.md",
     "Templates/Person.md",
+    "Home.md",
+    "Seminars/2025-12-18组会记录.md",
+    "Documents/Zotero.md",
+    "Slides/2022级-徐洋涛-中期检查.doc",
+    "Slides/2022级-徐洋涛-中期PPT.pdf",
+    "Slides/2022-徐洋涛-毕业论文.pdf",
+    "Slides/2022-徐洋涛-毕业答辩PPT.pdf",
+    "Seminars/2025-12-18组会记录.md.md",
     "Seminars",
-    "Templates/Seminars/2025-12-18组会记录.md",
-    "Templates/Seminars",
-    "Templates/未命名.md",
-    "Seminars",
-    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
-    "Slides/2021级-吴新瑜-开题报告PPT.pdf",
-    "未命名.md",
+    "People/Qiulh.md",
     "Documents/常用软件配置.md",
     "Documents/测试.md",
+    "Slides/2022级-徐洋涛-开题报告PPT.pdf",
+    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
+    "Slides/2021级-吴新瑜-开题报告PPT.pdf",
+    "People/WuJC.md",
     "未命名.canvas",
     "Documents/Test.md",
     "Templates/Seminar.md",
     "Documents/测试2.md",
+    "Untitled.md",
+    "Templates",
     "WuJC.md",
+    "People",
     "Projects/Test.md",
-    "Utility/Templates/New note templates/Person.md"
+    "Utility/Templates/New note templates/Person.md",
+    "People/People.md",
+    "Utility/Templates/@-mention person.md",
+    "Utility/Templates/Tasks menu.md",
+    "Utility/Templates/New note.md",
+    "Utility/Templates/New note templates/Project.md"
   ]
 }
