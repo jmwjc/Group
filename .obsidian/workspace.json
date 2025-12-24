@@ -24,15 +24,31 @@
             }
           },
           {
-            "id": "b67ddcaba1c236f1",
+            "id": "1a39d89b8f8db503",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Slides/2022-徐洋涛-毕业论文.pdf"
+                "file": "Documents/快速启动清单.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2022-徐洋涛-毕业论文"
+              "icon": "lucide-file",
+              "title": "快速启动清单"
+            }
+          },
+          {
+            "id": "bde15e98b5531e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/快速启动清单.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "快速启动清单"
             }
           }
         ],
@@ -59,7 +75,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "文件列表"
             }
           },
           {
@@ -68,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#People/HOCHOYIN",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +92,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "搜索"
             }
           },
           {
@@ -108,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 300
   },
   "right": {
     "id": "4e81fa19ba1b7a1e",
@@ -195,58 +211,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 693.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false,
       "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b67ddcaba1c236f1",
+  "active": "1a39d89b8f8db503",
   "lastOpenFiles": [
-    "People/HOCHOYIN.md",
-    "People/ZhenJX.md",
-    "People/Linym.md",
-    "Templates/Document.md",
-    "Templates/Person.md",
+    "Documents/入组指南.md",
+    "Documents/快速启动清单.md",
+    "Documents/常用软件配置.md",
     "Home.md",
     "Seminars/2025-12-18组会记录.md",
-    "Documents/Zotero.md",
     "Slides/2022级-徐洋涛-中期检查.doc",
     "Slides/2022级-徐洋涛-中期PPT.pdf",
     "Slides/2022-徐洋涛-毕业论文.pdf",
     "Slides/2022-徐洋涛-毕业答辩PPT.pdf",
-    "Seminars/2025-12-18组会记录.md.md",
-    "Seminars",
     "People/Qiulh.md",
-    "Documents/常用软件配置.md",
+    "People/Linym.md",
     "Documents/测试.md",
-    "Slides/2022级-徐洋涛-开题报告PPT.pdf",
-    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
-    "Slides/2021级-吴新瑜-开题报告PPT.pdf",
-    "People/WuJC.md",
+    "Documents/Zotero.md",
+    "Documents/Zotero configuration and plugins.md",
+    "Documents/VS Code configuration and plugins.md",
+    "Documents/LaTeX packages.md",
+    "Documents/Large language model.md",
+    "Documents/Customized the linux server.md",
+    "Documents/Asymptote绘制.md",
+    "Documents/LaTeX 使用技巧.md",
+    "Documents/LaTeX转换.md",
+    "People/ZhenJX.md",
+    "People/HOCHOYIN.md",
     "未命名.canvas",
     "Documents/Test.md",
+    "Slides/2021级-吴新瑜-中期检查PPT.pdf",
+    "Slides/2021级-吴新瑜-开题报告PPT.pdf",
+    "Slides/2022级-徐洋涛-开题报告PPT.pdf",
+    "People/WuJC.md",
+    "Templates/Document.md",
+    "Templates/Person.md",
     "Templates/Seminar.md",
     "Documents/测试2.md",
-    "Untitled.md",
     "Templates",
     "WuJC.md",
     "People",
-    "Projects/Test.md",
-    "Utility/Templates/New note templates/Person.md",
-    "People/People.md",
-    "Utility/Templates/@-mention person.md",
-    "Utility/Templates/Tasks menu.md",
-    "Utility/Templates/New note.md",
-    "Utility/Templates/New note templates/Project.md"
+    "Projects"
   ]
 }
