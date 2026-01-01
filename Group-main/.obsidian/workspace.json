@@ -27,14 +27,14 @@
             "id": "97724d408304d34b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Group-main/Seminars/2025-12-31组会记录.md.md",
-                "bFile": "Group-main/Seminars/2025-12-31组会记录.md.md",
-                "aRef": ""
+                "file": "Seminars/2025-12-31组会记录.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-12-31组会记录.md"
+              "icon": "lucide-file",
+              "title": "2025-12-31组会记录"
             }
           }
         ],
