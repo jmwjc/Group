@@ -1,0 +1,27 @@
+{
+  "globalTriggerSymbol": "@",
+  "limitLinkDirectories": [
+    {
+      "folder": "People",
+      "symbol": "@"
+    }
+  ],
+  "includeSymbol": false,
+  "showAddNewNote": true,
+  "addNewNoteFolders": [
+    {
+      "folder": "People",
+      "symbol": "@",
+      "template": "Templates/Person"
+    }
+  ],
+  "includeSymbolInNewFileName": false,
+  "addNewNoteTemplateFile": "",
+  "addNewNoteDirectory": "",
+  "useCompatibilityMode": true,
+  "leavePopupOpenForXSpaces": 0,
+  "allowedCodeBlockTypes": [],
+  "invalidCharacterRegex": "[\\[\\]^|#]",
+  "invalidCharacterRegexFlags": "i",
+  "removeAccents": true
+}
