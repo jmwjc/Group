@@ -24,13 +24,13 @@
             }
           },
           {
-            "id": "14705bf0078c18db",
+            "id": "74ac4348e222e86d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Seminars/2025-12-31组会记录.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -212,11 +212,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8f822ab509da2d4",
+  "active": "74ac4348e222e86d",
   "lastOpenFiles": [
-    "Seminars/2025-12-18组会记录.md.md",
-    "Seminars/2025-12-31组会记录.md",
     "Home.md",
+    "Seminars/2025-12-31组会记录.md",
+    "Seminars/2025-12-18组会记录.md.md",
     "Seminars/2025-12-18组会记录.md",
     "People/Qiulh.md",
     "People/ZhenJX.md",
