@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/HOCHOYIN.md",
+                "file": "Seminars/2025-12-31组会记录.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOCHOYIN"
+              "title": "2025-12-31组会记录"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "文件列表"
             }
           },
           {
@@ -180,15 +180,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
