@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "bde15e98b5531e68",
+            "id": "bfcb93b94353e479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Linym.md",
+                "file": "Seminars/2025-12-18组会记录.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linym"
+              "title": "2025-12-18组会记录"
             }
           }
         ],
@@ -61,7 +61,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "tag:#People/HOCHOYIN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "搜尋"
             }
           },
           {
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "right": {
     "id": "4e81fa19ba1b7a1e",
@@ -197,59 +197,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 693.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
       "homepage:Open homepage": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bde15e98b5531e68",
+  "active": "bfcb93b94353e479",
   "lastOpenFiles": [
-    "Documents/快速启动清单.md",
-    "People/Linym.md",
-    "People/HOCHOYIN.md",
-    "People/Qiulh.md",
-    "People/WuJC.md",
-    "People/ZhenJX.md",
-    "Templates/Person.md",
-    "Templates/Document.md",
-    "Seminars/2025-12-18组会记录.md",
-    "Seminars/2025-12-31组会记录.md",
-    "Slides/2022级-徐洋涛-开题报告PPT.pdf",
-    "Documents/入组指南.md",
-    "Home.md",
+    "Documents/Zotero.md",
     "Documents/常用软件配置.md",
+    "Seminars/2025-12-18组会记录.md",
+    "Home.md",
+    "Documents/Zotero configuration and plugins.md",
+    "Documents/入组指南.md",
+    "Documents/Large language model.md",
+    "Documents/LaTeX packages.md",
+    "Documents/VS Code configuration and plugins.md",
+    "Seminars/2025-12-31组会记录.md",
+    "People/HOCHOYIN.md",
+    "Seminars/2025-12-18组会记录.md.md",
+    "Documents/快速启动清单.md",
+    "Slides/2022-徐洋涛-毕业论文.pdf",
+    "People/ZhenJX.md",
+    "People/Linym.md",
+    "Templates/Document.md",
+    "Templates/Person.md",
     "Slides/2022级-徐洋涛-中期检查.doc",
     "Slides/2022级-徐洋涛-中期PPT.pdf",
-    "Slides/2022-徐洋涛-毕业论文.pdf",
     "Slides/2022-徐洋涛-毕业答辩PPT.pdf",
+    "Seminars",
+    "People/Qiulh.md",
     "Documents/测试.md",
-    "Documents/Zotero.md",
-    "Documents/Zotero configuration and plugins.md",
-    "Documents/VS Code configuration and plugins.md",
-    "Documents/LaTeX packages.md",
-    "Documents/Large language model.md",
-    "Documents/Customized the linux server.md",
-    "Documents/Asymptote绘制.md",
-    "Documents/LaTeX 使用技巧.md",
-    "Documents/LaTeX转换.md",
-    "未命名.canvas",
-    "Documents/Test.md",
+    "Slides/2022级-徐洋涛-开题报告PPT.pdf",
     "Slides/2021级-吴新瑜-中期检查PPT.pdf",
     "Slides/2021级-吴新瑜-开题报告PPT.pdf",
+    "People/WuJC.md",
+    "未命名.canvas",
+    "Documents/Test.md",
     "Templates/Seminar.md",
     "Documents/测试2.md",
+    "Untitled.md",
     "Templates",
+    "WuJC.md",
     "People",
-    "Projects"
+    "Projects/Test.md"
   ]
 }
