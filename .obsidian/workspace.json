@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c834a59fc3e28489",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "People/ZhenJX.md",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "b67ddcaba1c236f1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Slides/2022-徐洋涛-毕业论文.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2022-徐洋涛-毕业论文"
+              "title": "ZhenJX"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "文件列表"
             }
           },
           {
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#People/HOCHOYIN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "搜索"
             }
           },
           {
@@ -195,40 +180,49 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b67ddcaba1c236f1",
+  "active": "c834a59fc3e28489",
   "lastOpenFiles": [
-    "People/HOCHOYIN.md",
+    "Home.md",
+    "Documents/测试.md",
+    "Documents/未命名.md",
+    "ZhenJX",
     "People/ZhenJX.md",
+    "Documents/LaTeX packages.md",
+    "Documents/VS Code configuration and plugins.md",
+    "Documents/Zotero.md",
+    "Documents/Zotero configuration and plugins.md",
+    "Documents/入组指南.md",
+    "Seminars/2025-12-31组会记录.md",
+    "People/HOCHOYIN.md",
+    "Seminars/2025-12-18组会记录.md",
+    "Documents/常用软件配置.md",
+    "Documents/Large language model.md",
+    "Seminars/2025-12-18组会记录.md.md",
+    "Documents/快速启动清单.md",
+    "Slides/2022-徐洋涛-毕业论文.pdf",
     "People/Linym.md",
     "Templates/Document.md",
     "Templates/Person.md",
-    "Home.md",
-    "Seminars/2025-12-18组会记录.md",
-    "Documents/Zotero.md",
     "Slides/2022级-徐洋涛-中期检查.doc",
     "Slides/2022级-徐洋涛-中期PPT.pdf",
-    "Slides/2022-徐洋涛-毕业论文.pdf",
     "Slides/2022-徐洋涛-毕业答辩PPT.pdf",
-    "Seminars/2025-12-18组会记录.md.md",
     "Seminars",
     "People/Qiulh.md",
-    "Documents/常用软件配置.md",
-    "Documents/测试.md",
     "Slides/2022级-徐洋涛-开题报告PPT.pdf",
     "Slides/2021级-吴新瑜-中期检查PPT.pdf",
     "Slides/2021级-吴新瑜-开题报告PPT.pdf",
@@ -238,15 +232,6 @@
     "Templates/Seminar.md",
     "Documents/测试2.md",
     "Untitled.md",
-    "Templates",
-    "WuJC.md",
-    "People",
-    "Projects/Test.md",
-    "Utility/Templates/New note templates/Person.md",
-    "People/People.md",
-    "Utility/Templates/@-mention person.md",
-    "Utility/Templates/Tasks menu.md",
-    "Utility/Templates/New note.md",
-    "Utility/Templates/New note templates/Project.md"
+    "Templates"
   ]
 }
