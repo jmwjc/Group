@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "b98fbac1cb522b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa573d6122a215ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0bbb77b26116c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seminars/2025-12-31组会记录.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-31组会记录"
+            }
+          },
+          {
+            "id": "5808cb921ee0c239",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3200980231f46cf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee9b2e0045cd4b42",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "44ea064430db2dcc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "d796b02ca22f1930",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "89b0a37e9a29a1ee",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "7fde7c8ebb1b5aac",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bb9a4e0f59c9a0df",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "825d3212bff97c66",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "7b76bfec96927ae2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "d9a0286c6adef447",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Home.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "503d562bb8ea5ea3",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "5808cb921ee0c239",
+  "lastOpenFiles": [
+    "Seminars/2025-12-31组会记录.md",
+    "Seminars/2025-12-18组会记录.md"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "terminalApp": "kitty",
+  "enableClaude": false,
+  "enableCodex": false,
+  "enableGemini": true,
+  "enableLogging": false
+}
