@@ -1,4 +1,5 @@
-
+# VS Code configuration and plugins
+#people/WuJC
 #Tutorial/VSCode
 
 # 常用配置

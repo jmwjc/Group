@@ -43,3 +43,5 @@ __pycache__/        # Python
 # 🎯 黄金法则：如果不确定，先忽略！
 # 可以通过git add -f强制添加需要的文件
 
+
+/.obsidian/workspace.json

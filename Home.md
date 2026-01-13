@@ -1,13 +1,71 @@
-# 组会记录
+# 🗄️ 计算力学研究组知识库
 
-1. 在`Seminars`文件夹中添加Markdown文件，文件以`yyyy-mm-dd.md`命名。
-2. 使用`- [ ]`去建立任务，用`@+姓名英文`去指定完成人，如下：
->- [x] [[ZhenJX]] 请在📅 2025-12-18 完成组会记录教程。 ✅ 2025-12-18
-3. 在`People`文件夹中的个人主页可以看到相对应任务列表。
+欢迎使用本课题组知识库。本页面作为全局导航枢纽，帮助您快速追踪研究进展和管理任务。
 
-# 添加文档
+---
 
-1. 点击右键`Documents`，选择新建文档。
-2. 输入文件名按回车，随后自动跳转输入姓名。
-3. 添加相对应的标签。
+## 🔔 组会待办汇总
 
+```tasks
+not done
+path includes Seminars
+short mode
+limit 10
+```
+
+---
+
+## ✅ 组会完成汇总
+
+```tasks
+done
+path includes Seminars
+short mode
+limit 10
+```
+
+---
+
+## 📖 管理规范
+
+```dataview
+LIST FROM "Documents" AND #Policy
+```
+
+---
+
+## 🛠️ 技术指南
+
+```dataview
+LIST FROM "Documents" AND #Tutorial
+```
+
+---
+
+## 🏗️ 成员与项目
+
+- [[People/|👥 成员列表]]
+- [[Projects/|📂 活跃项目]]
+- [[AGENTS.md|🤖 协作规范]]
+
+---
+
+## 📅 近期组会进展
+
+```dataview
+TABLE
+FROM "Seminars"
+WHERE file.name != "Seminar"
+SORT file.name DESC
+LIMIT 5
+```
+
+---
+
+## 🏷️ 常用领域标签
+#Policy #Tutorial #Tutorial/LaTeX #Tutorial/VSCode #Tutorial/Zotero
+
+---
+> [!tip] 提示
+> - 按 `Ctrl/Cmd + Shift + F` 使用 Omnisearch 搜索笔记
+> - 使用 `oc` 指令让 AI 协助你整理知识

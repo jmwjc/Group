@@ -1,0 +1,19 @@
+{
+  "project_name": "Computational Mechanics Vault",
+  "allowed_skills": [
+    "seminar-organizer",
+    "json-canvas",
+    "obsidian-bases",
+    "obsidian-markdown"
+  ],
+  "mcp-servers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/wujunchao/Library/Mobile Documents/iCloud~md~obsidian/Documents/group"
+      ]
+    }
+  }
+}

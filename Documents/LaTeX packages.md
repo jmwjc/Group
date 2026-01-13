@@ -1,6 +1,6 @@
-
-
-#Tutorial/LaTeX 
+# LaTeX packages
+#people/WuJC
+#Tutorial/LaTeX
 
 [LaTex教程](https://www.overleaf.com/learn)
 - 中文支持：`xeCJK`

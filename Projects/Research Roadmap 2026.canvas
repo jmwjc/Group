@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"node-research-topic","type":"text","x":300,"y":100,"width":400,"height":200,"text":"# 计算力学研究路线图 (2026)\n\n## 核心目标\n开发高效、鲁棒的高阶无网格法求解器，解决复杂几何边界的大变形问题。","color":"5"},
+		{"id":"node-phase-1","type":"group","x":0,"y":400,"width":300,"height":400,"label":"第一阶段：理论与基础","color":"1"},
+		{"id":"node-math-base","type":"text","x":20,"y":450,"width":260,"height":100,"text":"### 1.1 偏微分方程弱形式\n研究伽辽金法与罚函数边界处理。"},
+		{"id":"node-shape-functions","type":"text","x":20,"y":600,"width":260,"height":100,"text":"### 1.2 形状函数构造\n实现 MLS (移动最小二乘) 与 RKPM。"},
+		{"id":"node-phase-2","type":"group","x":350,"y":400,"width":300,"height":400,"label":"第二阶段：算法实现","color":"2"},
+		{"id":"node-solver-dev","type":"text","x":370,"y":450,"width":260,"height":100,"text":"### 2.1 Julia 求解器开发\n利用 SparseArrays 与 IterativeSolvers 提升效率。"},
+		{"id":"node-integration","type":"text","x":370,"y":600,"width":260,"height":100,"text":"### 2.2 积分方案优化\n对比全积分与节点积分方案。"},
+		{"id":"node-phase-3","type":"group","x":700,"y":400,"width":300,"height":400,"label":"第三阶段：应用与验证","color":"4"},
+		{"id":"node-validation","type":"text","x":720,"y":450,"width":260,"height":100,"text":"### 3.1 经典案例验证\n悬臂梁、带孔板拉伸等标准测试集。"},
+		{"id":"node-publication","type":"text","x":720,"y":600,"width":260,"height":100,"text":"### 3.2 论文撰写\n投稿至 CMAME 或 IJNME。"}
+	],
+	"edges":[
+		{"id":"edge-1","fromNode":"node-research-topic","fromSide":"bottom","toNode":"node-phase-1","toSide":"top"},
+		{"id":"edge-2","fromNode":"node-research-topic","fromSide":"bottom","toNode":"node-phase-2","toSide":"top"},
+		{"id":"edge-3","fromNode":"node-research-topic","fromSide":"bottom","toNode":"node-phase-3","toSide":"top"},
+		{"id":"edge-p1-to-p2","fromNode":"node-phase-1","fromSide":"right","toNode":"node-phase-2","toSide":"left","toEnd":"arrow","label":"理论指导实现"},
+		{"id":"edge-p2-to-p3","fromNode":"node-phase-2","fromSide":"right","toNode":"node-phase-3","toSide":"left","toEnd":"arrow","label":"代码支持应用"}
+	]
+}

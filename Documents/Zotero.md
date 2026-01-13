@@ -1,50 +1,66 @@
----
-creation_date: 2025-12-22
----
-#People/WuJC  #People/HOCHOYIN  
+# Zotero 文献管理与科研协作指南
+#people/WuJC
+#Tutorial/Zotero
 
-## 插件
-# [Better BibTex](https://retorque.re/zotero-better-bibtex/)
-- Citation key format: 
->[auth:lower][year]
-- Set quick copy:
->Preference->Export->Quick Copy->Item Format->Better BibTex Quick Copy: Cite Keys
+**Zotero** 是一款开源的文献管理工具，凭借其强大的插件生态和灵活的元数据处理能力，已成为计算力学研究组进行文献调研、论文写作的核心基础设施。
 
-# [Zutilo](https://github.com/wshanks/Zutilo)
-- Create relation between files.
-[**Zotero->ZotFile->Mdnotes->Obsidian->Dataview Workflow**](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
-- Remove all tags
->Tools->Zutilo Preference->User Interface->Remove tags->Click Zutilo context menu
+## 基础配置与环境优化
 
-# [ZotFile](http://zotfile.com/)
-- Extract annotations from pdf.
-- Push the pdfs to ipad, and recollect them after annotating. 
+在开始使用前，建议进行以下基础设置以保持文献库的整洁和同步的高效。
 
-# [Mdnotes](https://github.com/argenos/zotero-mdnotes)
-- Create md from annotations extracted by ZotFile
+### 核心设置 (Settings)
+- **禁用自动抓取**：取消勾选 `Setting -> General -> Automatically take snapshots when creating items from web pages`（防止快照占用过多空间，建议手动保存重要的网页快照）。
+- **清理自动标签**：取消勾选 `Setting -> General -> Automatically tag items with keywords and subject headings`（避免导入文献时产生大量冗余、无意义的标签）。
 
-# 使用教程
-#### 文献导入Zotero
-- 打开zotero
-- 新建分类
-- 把文献PDF汇入（拉入）zotero (当拖入PDF时会发现软件会自动生成讯息页面)
-- 检查PDF档案与文献讯息是否一致？
-- 如果没有讯息的文献 ，新增项目 -> 期刊文章 -> 补充讯息内容
-#### 配置引文键 (Citation Key)
-Citation Key 是你在 LaTeX 中引用文献的唯一标识（例如 `\cite{smith2020}` 中的 `smith2020`）。
-1. 在 Zotero 中，打开 "编辑" -> "设置" -> "导出" -> "条目格式" -> 选择 [Better BibTex](https://retorque.re/zotero-better-bibtex/)
-2. 在设置中，打开[Better BibTex](https://retorque.re/zotero-better-bibtex/) -> 设置你喜欢的格式。
-  - **推荐格式：** `[auth][year]` (作者+年份，如 Smith2023) 或 `[auth:lower][year]` (小写作者+年份)。
-#### 导出参考文献库 (.bib 文件)
-1. 右键点击你想要使用的**分类文件夹** -> **导出文献库**
-2. **格式选择：** 选择 **Better BibLaTeX** (推荐) 或  [Better BibTex](https://retorque.re/zotero-better-bibtex/)。
-3. **关键设置（打钩）：**
-   - **Keep updated (保持更新)：** _这是联动的灵魂_。当你修改 Zotero 里的条目时，导出的 `.bib` 文件会自动同步更新。
-4. 保存文件，命名为 `references.bib`（或你喜欢的名字）。
+### 云端同步 (Sync)
+- **WebDAV 同步**：推荐使用**坚果云**进行附件同步。
+    - 在坚果云后台开通第三方应用密码。
+    - 在 Zotero 中配置：`Settings -> Sync -> File Syncing -> 使用 WebDAV`。
+    - 验证服务器：输入坚果云提供的服务器地址、账号及应用密码。
 
-#### 使用 VS Code + LaTeX Workshop (本地编辑器)
+## 核心插件矩阵
 
-1. 将 Zotero 导出的 `references.bib` 文件保存在你的 LaTeX 项目根目录下。
-2. 由于你在第三步勾选了 "Keep updated"，每当你在 Zotero 中新增文献或修改信息，本地的 `references.bib` 文件会自动刷新。
-3. 在 VS Code 中配置 LaTeX Workshop 插件，使其能够读取该文件实现自动补全。
-4. 写作时输入 `\cite{`，VS Code 会即时显示所有文献供选择。
+插件是 Zotero 的灵魂，以下是研究组推荐的必装插件：
+
+| 插件名称 | 推荐指数 | 核心功能 |
+| :--- | :--- | :--- |
+| **Better BibTeX** | ★★★★★ | LaTeX 联动的核心，管理 Citation Key 并自动导出 `.bib`。 |
+| **Zutilo** | ★★★★★ | 提供强大的右键菜单，支持批量清理标签、管理附件、建立条目关联。 |
+| **ZotFile** | ★★★★ | 自动重命名 PDF、提取注释，支持将附件同步至平板端阅读。 |
+| **Mdnotes** | ★★★ | 将 Zotero 中的条目元数据和注释导出为 Markdown 文件。 |
+
+## LaTeX 自动化联动流
+
+实现“Zotero 修改，LaTeX 自动更新”的自动化流程。
+
+### 1. 配置引文键 (Citation Key)
+Citation Key 是你在 LaTeX 中使用 `\cite{...}` 的唯一标识。
+- **设置路径**：`Settings -> Better BibTeX -> Citation keys`。
+- **推荐格式**：`[auth:lower][year]` (例如：`smith2023`) 或 `[auth][year][shorttitle3_3]`。
+- **快速拷贝**：设置 `Settings -> Export -> Quick Copy -> Better BibTeX Quick Copy: Cite Keys`。
+
+### 2. 自动导出与同步
+1. 右键点击你的**项目分类文件夹** -> `Export Collection...`。
+2. **格式选择**：选择 `Better BibLaTeX`。
+3. **开启自动同步**：勾选 `Keep updated`。
+4. **保存位置**：将其保存至你的 LaTeX 项目根目录下（如 `references.bib`）。
+5. **生效效果**：只要你在 Zotero 中更新文献信息或新增文献，该 `.bib` 文件会实时刷新。
+
+## Obsidian 联动与管理技巧
+
+### 文献导入标准流程
+1. **新建分类**：为每个研究课题建立独立文件夹。
+2. **拖入 PDF**：直接将 PDF 拖入 Zotero，软件会自动通过 DOI 识别元数据。
+3. **检查核对**：检查标题、作者、期刊名是否抓取准确，尤其是大小写。
+4. **清理标签**：利用 **Zutilo** 批量删除导入时自带的无用标签：
+   - `Tools -> Zutilo Preferences -> User Interface -> Remove tags`。
+   - 随后在文献右键菜单中选择 `Zutilo -> Remove tags`。
+
+### 提取注释与笔记
+- **提取 PDF 注释**：使用 **ZotFile** 提取 PDF 中的高亮和评论。
+- **导出至 Obsidian**：
+    - 使用 **Mdnotes** 将提取的注释导出为 `.md`。
+    - 或参考 [在 Obsidian 中创建文献列表](https://nataliekraneiss.com/en/your-academic-reading-list-in-obsidian/) 配置 Dataview 自动索引。
+
+### 视觉管理
+- **标签颜色**：右键点击右下角的标签 -> `Assign Color`。设置颜色后，文献条目前会出现对应色块，方便快速识别论文权重或状态。

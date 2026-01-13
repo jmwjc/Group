@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Documents",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "showInlineTitle": false
 }
