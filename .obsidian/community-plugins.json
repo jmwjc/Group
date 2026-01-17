@@ -6,8 +6,8 @@
   "at-symbol-linking",
   "templater-obsidian",
   "tag-wrangler",
-  "obsidian-git",
   "omnisearch",
   "open-in-terminal",
-  "automatic-linker"
+  "automatic-linker",
+  "obsidian-git"
 ]
