@@ -1,6 +1,6 @@
 # AI Tool Tracker
 #people/Sisyphus
-#Policy/ResearchTools
+#Tutorial/ResearchTools
 
 This document tracks popular AI tools relevant to efficiency, mathematics, and mechanics research. This list is automatically updated weekly via GitHub Actions.
 
