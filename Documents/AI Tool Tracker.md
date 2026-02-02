@@ -14,12 +14,12 @@ This document tracks popular AI tools relevant to efficiency, mathematics, and m
 
 | Name | Description | Stars | Category | Link |
 | --- | --- | --- | --- | --- |
-| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 5,699 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
-| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,646 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
+| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 5,712 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
+| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,650 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
 | **pycm** | Multi-class confusion matrix library in Python | 1,498 | Math/Mechanics | [Link](https://github.com/sepandhaghighi/pycm) |
-| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,051 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
-| **Data-Science-EBooks** | Welcome to the Data Science EBooks repository! This collection offers a variety of high-quality ebooks on Data Science, Machine Learning, and AI. Perfect for both beginners and advanced learners, explore these resources to deepen your knowledge and skills. | 836 | Math/Mechanics | [Link](https://github.com/aniketpotabatti/Data-Science-EBooks) |
-| **Basic-Mathematics-for-Machine-Learning** | The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI | 721 | Math/Mechanics | [Link](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) |
+| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,056 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
+| **Data-Science-EBooks** | Welcome to the Data Science EBooks repository! This collection offers a variety of high-quality ebooks on Data Science, Machine Learning, and AI. Perfect for both beginners and advanced learners, explore these resources to deepen your knowledge and skills. | 839 | Math/Mechanics | [Link](https://github.com/aniketpotabatti/Data-Science-EBooks) |
+| **Basic-Mathematics-for-Machine-Learning** | The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI | 722 | Math/Mechanics | [Link](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) |
 | **End-to-End-AI-for-Science** | This repository containts materials for End-to-End AI for Science | 223 | Math/Mechanics | [Link](https://github.com/openhackathons-org/End-to-End-AI-for-Science) |
 | **Geoweaver** | boost data pipeline's tangibility, enhance research productivity, reduce work anxiety | 92 | Math/Mechanics | [Link](https://github.com/ESIPFed/Geoweaver) |
 | **eshkol** | High-Performance LISP-like language for Scientific Computing and AI written in C++ | 89 | Math/Mechanics | [Link](https://github.com/tsotchke/eshkol) |
