@@ -43,5 +43,12 @@ __pycache__/        # Python
 # 🎯 黄金法则：如果不确定，先忽略！
 # 可以通过git add -f强制添加需要的文件
 
+# Obsidian 自动生成的配置和缓存
+.obsidian/
+# 如果 app.json 也频繁被修改，也可以加入
+app.json
+# 其他常见需要忽略的文件
+.DS_Store
+*.log
 
 /.obsidian/workspace.json
