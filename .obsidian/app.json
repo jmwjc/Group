@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Documents",
+  "newLinkFormat": "shortest",
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true
+}
