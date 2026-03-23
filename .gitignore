@@ -50,5 +50,6 @@ app.json
 # 其他常见需要忽略的文件
 .DS_Store
 *.log
+Thumbs.db
 
 /.obsidian/workspace.json
