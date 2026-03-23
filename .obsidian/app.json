@@ -7,5 +7,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Documents",
   "newLinkFormat": "shortest",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true
 }
