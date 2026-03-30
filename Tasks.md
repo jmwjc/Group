@@ -14,7 +14,7 @@ kanban-plugin: board
 
 - [ ] ## RK stabilized ST-FEM
 	- [ ] 🛫 2026-03-23 discontinuous Galkerin
-	-
+		- [ ] 🛫 2026-03-26 加权残余法
 
 
 ## [[Qiulh]]

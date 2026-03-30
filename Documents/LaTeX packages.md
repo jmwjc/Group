@@ -12,3 +12,6 @@
 - 矩阵 `nicematrix`
 - 下划线：`ulem`
 - todolist：`todonotes`
+
+## Beamer theme
+- [Gruvbox](https://github.com/lionhead94/BeamerGruvboxTheme)
