@@ -14,7 +14,8 @@ kanban-plugin: board
 
 - [ ] ## RK stabilized ST-FEM
 	- [ ] 🛫 2026-03-23 discontinuous Galkerin
-		- [ ] 🛫 2026-03-26 加权残余法
+		- [x] 🛫 2026-03-26 一维加权残余法 ✅ 2026-04-02
+		- [ ] 🛫 2026-04-02 一维间断伽辽金
 
 
 ## [[Qiulh]]
@@ -27,8 +28,9 @@ kanban-plugin: board
 
 - [ ] ## RK stabilized thick plate
 	- [ ] 🛫 2026-03-23 Circular plate problem
-		- [ ] patch test
-		- [ ] Q4R1
+		- [ ] Clamped
+			- [ ] Q4R1
+		- [ ] Simply
 
 
 
