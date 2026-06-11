@@ -7,7 +7,7 @@ kanban-plugin: board
 ## [[HOCHOYIN]]
 
 - [ ] ## RK stabilized thick beam bulking analysis
-	- [ ] 🛫 2026-03-23 revise document
+	- [x] 🛫 2026-03-23 revise document ✅ 2026-04-15
 
 
 ## [[Linym]]
