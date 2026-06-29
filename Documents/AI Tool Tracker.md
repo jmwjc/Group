@@ -14,14 +14,14 @@ This document tracks popular AI tools relevant to efficiency, mathematics, and m
 
 | Name | Description | Stars | Category | Link |
 | --- | --- | --- | --- | --- |
-| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 6,193 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
-| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,731 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
+| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 6,209 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
+| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,739 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
 | **pycm** | Multi-class confusion matrix library in Python | 1,503 | Math/Mechanics | [Link](https://github.com/sepandhaghighi/pycm) |
-| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,159 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
-| **Data-Science-EBooks** | Welcome to the Data Science EBooks repository! This collection offers a variety of high-quality ebooks on Data Science, Machine Learning, and AI. Perfect for both beginners and advanced learners, explore these resources to deepen your knowledge and skills. | 928 | Math/Mechanics | [Link](https://github.com/aniketpotabatti/Data-Science-EBooks) |
-| **algebrica** | Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence.  | 776 | Math/Mechanics | [Link](https://github.com/antoniolupetti/algebrica) |
-| **End-to-End-AI-for-Science** | This repository containts materials for End-to-End AI for Science | 255 | Math/Mechanics | [Link](https://github.com/openhackathons-org/End-to-End-AI-for-Science) |
-| **eshkol** | High-Performance LISP-like language for Scientific Computing and AI written in C++ | 125 | Math/Mechanics | [Link](https://github.com/tsotchke/eshkol) |
+| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,160 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
+| **Data-Science-EBooks** | Welcome to the Data Science EBooks repository! This collection offers a variety of high-quality ebooks on Data Science, Machine Learning, and AI. Perfect for both beginners and advanced learners, explore these resources to deepen your knowledge and skills. | 930 | Math/Mechanics | [Link](https://github.com/aniketpotabatti/Data-Science-EBooks) |
+| **algebrica** | Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence.  | 822 | Math/Mechanics | [Link](https://github.com/antoniolupetti/algebrica) |
+| **End-to-End-AI-for-Science** | This repository containts materials for End-to-End AI for Science | 257 | Math/Mechanics | [Link](https://github.com/openhackathons-org/End-to-End-AI-for-Science) |
+| **eshkol** | High-Performance LISP-like language for Scientific Computing and AI written in C++ | 127 | Math/Mechanics | [Link](https://github.com/tsotchke/eshkol) |
 | **Geoweaver** | boost data pipeline's tangibility, enhance research productivity, reduce work anxiety | 95 | Math/Mechanics | [Link](https://github.com/ESIPFed/Geoweaver) |
 | **leeroo_orchestrator** | The implementation of "Leeroo Orchestrator: Elevating LLMs Performance Through Model Integration" | 55 | Efficiency | [Link](https://github.com/Leeroo-AI/leeroo_orchestrator) |
 | **rewrites.bio** | A manifesto for AI-assisted modernisation of bioinformatics software. | 53 | Efficiency | [Link](https://github.com/seqeralabs/rewrites.bio) |
