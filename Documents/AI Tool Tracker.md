@@ -14,21 +14,21 @@ This document tracks popular AI tools relevant to efficiency, mathematics, and m
 
 | Name | Description | Stars | Category | Link |
 | --- | --- | --- | --- | --- |
-| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 6,303 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
-| **openscience** | The open-source AI workbench for scientific research | 3,044 | Math/Mechanics | [Link](https://github.com/synthetic-sciences/openscience) |
-| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,777 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
+| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 6,325 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
+| **openscience** | The open-source AI workbench for scientific research | 3,125 | Math/Mechanics | [Link](https://github.com/synthetic-sciences/openscience) |
+| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,781 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
 | **pycm** | Multi-class confusion matrix library in Python | 1,506 | Math/Mechanics | [Link](https://github.com/sepandhaghighi/pycm) |
-| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,181 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
-| **Data-Science-EBooks** | Welcome to the Data Science EBooks repository! This collection offers a variety of high-quality ebooks on Data Science, Machine Learning, and AI. Perfect for both beginners and advanced learners, explore these resources to deepen your knowledge and skills. | 950 | Math/Mechanics | [Link](https://github.com/aniketpotabatti/Data-Science-EBooks) |
-| **algebrica** | Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence.  | 898 | Math/Mechanics | [Link](https://github.com/antoniolupetti/algebrica) |
+| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,185 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
+| **Data-Science-EBooks** | Welcome to the Data Science EBooks repository! This collection offers a variety of high-quality ebooks on Data Science, Machine Learning, and AI. Perfect for both beginners and advanced learners, explore these resources to deepen your knowledge and skills. | 953 | Math/Mechanics | [Link](https://github.com/aniketpotabatti/Data-Science-EBooks) |
+| **algebrica** | Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence.  | 933 | Math/Mechanics | [Link](https://github.com/antoniolupetti/algebrica) |
+| **SARA** | Official Implementation for the ACL 2026 paper "SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression" | 300 | Efficiency | [Link](https://github.com/Ahren09/SARA) |
 | **End-to-End-AI-for-Science** | This repository containts materials for End-to-End AI for Science | 261 | Math/Mechanics | [Link](https://github.com/openhackathons-org/End-to-End-AI-for-Science) |
-| **SARA** | Official Implementation for the ACL 2026 paper "SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression" | 244 | Efficiency | [Link](https://github.com/Ahren09/SARA) |
 | **eshkol** | High-Performance LISP-like language for Scientific Computing and AI written in C++ | 139 | Math/Mechanics | [Link](https://github.com/tsotchke/eshkol) |
 | **Geoweaver** | boost data pipeline's tangibility, enhance research productivity, reduce work anxiety | 95 | Math/Mechanics | [Link](https://github.com/ESIPFed/Geoweaver) |
 | **leeroo_orchestrator** | The implementation of "Leeroo Orchestrator: Elevating LLMs Performance Through Model Integration" | 55 | Efficiency | [Link](https://github.com/Leeroo-AI/leeroo_orchestrator) |
 | **rewrites.bio** | A manifesto for AI-assisted modernisation of bioinformatics software. | 53 | Efficiency | [Link](https://github.com/seqeralabs/rewrites.bio) |
 | **ZetaZero** | Z.E.T.A. Zero: Cognitive Construct & Persistent Memory for Local LLMs | 46 | Efficiency | [Link](https://github.com/H-XX-D/ZetaZero) |
-| **awesome-ai-cae** | A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers. | 40 | Math/Mechanics | [Link](https://github.com/kimimgo/awesome-ai-cae) |
+| **awesome-ai-cae** | A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers. | 41 | Math/Mechanics | [Link](https://github.com/kimimgo/awesome-ai-cae) |
 | **AIEnergyScore** | AI Energy Score: Initiative to establish comparable energy efficiency ratings for AI models. | 40 | Efficiency | [Link](https://github.com/huggingface/AIEnergyScore) |
 | **specials** | Accurate, Hardware Accelerated, Special Functions in Mojo 🔥 | 37 | Math/Mechanics | [Link](https://github.com/leandrolcampos/specials) |
 | **scribe-pal** | ScribePal is an Open Source intelligent browser extension that leverages AI to empower your web experience by providing contextual insights, efficient content summarization, and seamless interaction while you browse. | 22 | Efficiency | [Link](https://github.com/code-forge-temple/scribe-pal) |
