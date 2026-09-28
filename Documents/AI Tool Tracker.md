@@ -14,16 +14,16 @@ This document tracks popular AI tools relevant to efficiency, mathematics, and m
 
 | Name | Description | Stars | Category | Link |
 | --- | --- | --- | --- | --- |
-| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 6,428 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
-| **openscience** | The open-source AI workbench for scientific research | 3,616 | Math/Mechanics | [Link](https://github.com/synthetic-sciences/openscience) |
-| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,812 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
-| **pycm** | Multi-class confusion matrix library in Python | 1,506 | Math/Mechanics | [Link](https://github.com/sepandhaghighi/pycm) |
-| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,202 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
-| **algebrica** | Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence.  | 1,026 | Math/Mechanics | [Link](https://github.com/antoniolupetti/algebrica) |
+| **Mathematics-for-ML** | 🧮  A collection of resources to learn mathematics for machine learning | 6,442 | Math/Mechanics | [Link](https://github.com/dair-ai/Mathematics-for-ML) |
+| **openscience** | The open-source AI workbench for scientific research | 3,715 | Math/Mechanics | [Link](https://github.com/synthetic-sciences/openscience) |
+| **awesome-AI-books** | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 1,817 | Math/Mechanics | [Link](https://github.com/zslucky/awesome-AI-books) |
+| **pycm** | Multi-class confusion matrix library in Python | 1,507 | Math/Mechanics | [Link](https://github.com/sepandhaghighi/pycm) |
+| **PDEBench** | PDEBench: An Extensive Benchmark for Scientific Machine Learning | 1,205 | Math/Mechanics | [Link](https://github.com/pdebench/PDEBench) |
+| **algebrica** | Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence.  | 1,033 | Math/Mechanics | [Link](https://github.com/antoniolupetti/algebrica) |
 | **Data-Science-EBooks** | A curated collection of eBooks on Data Science, Machine Learning, and AI to help you learn and grow. | 975 | Math/Mechanics | [Link](https://github.com/aniketpotabatti/Data-Science-EBooks) |
 | **End-to-End-AI-for-Science** | This repository containts materials for End-to-End AI for Science | 263 | Math/Mechanics | [Link](https://github.com/openhackathons-org/End-to-End-AI-for-Science) |
 | **SARA** | Official Implementation for the ACL 2026 paper "SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression" | 262 | Efficiency | [Link](https://github.com/Ahren09/SARA) |
-| **eshkol** | High-Performance LISP-like language for Scientific Computing and AI written in C++ | 152 | Math/Mechanics | [Link](https://github.com/tsotchke/eshkol) |
+| **eshkol** | High-Performance LISP-like language for Scientific Computing and AI written in C++ | 155 | Math/Mechanics | [Link](https://github.com/tsotchke/eshkol) |
 | **Geoweaver** | boost data pipeline's tangibility, enhance research productivity, reduce work anxiety | 95 | Math/Mechanics | [Link](https://github.com/ESIPFed/Geoweaver) |
 | **awesome-ai-cae** | A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers. | 55 | Math/Mechanics | [Link](https://github.com/kimimgo/awesome-ai-cae) |
 | **rewrites.bio** | A manifesto for AI-assisted modernisation of bioinformatics software. | 55 | Efficiency | [Link](https://github.com/seqeralabs/rewrites.bio) |
@@ -31,11 +31,11 @@ This document tracks popular AI tools relevant to efficiency, mathematics, and m
 | **ZetaZero** | Z.E.T.A. Zero: Cognitive Construct & Persistent Memory for Local LLMs | 46 | Efficiency | [Link](https://github.com/H-XX-D/ZetaZero) |
 | **AIEnergyScore** | AI Energy Score: Initiative to establish comparable energy efficiency ratings for AI models. | 42 | Efficiency | [Link](https://github.com/huggingface/AIEnergyScore) |
 | **specials** | Accurate, Hardware Accelerated, Special Functions in Mojo 🔥 | 37 | Math/Mechanics | [Link](https://github.com/leandrolcampos/specials) |
-| **SlideForge** | AI-Powered Presentation Generator — pure HTML+CSS+vanilla JS, zero frameworks | 33 | Efficiency | [Link](https://github.com/vincenzo-afk/SlideForge) |
+| **SlideForge** | AI-Powered Presentation Generator — pure HTML+CSS+vanilla JS, zero frameworks | 36 | Efficiency | [Link](https://github.com/vincenzo-afk/SlideForge) |
 | **scribe-pal** | ScribePal is an Open Source intelligent browser extension that leverages AI to empower your web experience by providing contextual insights, efficient content summarization, and seamless interaction while you browse. | 22 | Efficiency | [Link](https://github.com/code-forge-temple/scribe-pal) |
 | **krita-bg-remove-bria** | A simple plugin for Krita that automatically removes the background of an image using BriaAI's API in seconds | 19 | Efficiency | [Link](https://github.com/agoulddesign/krita-bg-remove-bria) |
 | **GPT-Assistants-Interlink** | GPT-Assistants-Interlink is a personalized mobile assistant tool for your Android smartwatch. This application is engineered to enhance your daily life by providing responsive virtual assistance and companionship on the fly, using a suite of specialized AI instances tailored for various tasks. | 18 | Efficiency | [Link](https://github.com/Adri6336/GPT-Assistants-Interlink) |
-| **NEXORA-AI** | Made with Python, crafted by Vishnu 💻✨  Nexora AI – A smart Python voice agent with GUI, reminders, WhatsApp messaging, app control, jokes, and more! Built with 💻 + 🧠 + ❤️. | 16 | Efficiency | [Link](https://github.com/Vishnu-tppr/NEXORA-AI) |
+| **alBERT-launcher** | AI-powered file launcher and semantic search assistant. Like Spotlight/Alfred but with advanced AI capabilities for understanding context and meaning. Features local processing, privacy-first design, and seamless integration with your workflow. | 15 | Efficiency | [Link](https://github.com/lekt9/alBERT-launcher) |
 | **Askit.** | 在一个实时交互的坐标系中和AI交互讨论问题，让思想的传输不再受语言限制，更直观的学习和理解新知识或者解决问题。软件内置强大的物理引擎Bullet Physics并且具有专属定制的微调模型，让AI可以完全理解整个空间，AI的画图直觉已经被训练融入CoT，并且采用和物理引擎并行计算的混合架构。实时渲染采用manim改良的实时渲染引擎，具有美观的动画。当前尚未部署微调模型云服务，要获得最佳体验，需要使用24G显存以上的显卡在软件中点击本地部署按钮, 未来将推出AI和物理引擎全面融合的版本 | 13 | Math/Mechanics | [Link](https://github.com/Andante-Assai/Askit.) |
 | **PytorchPINN** | Implementation of physics informed neural networks in pytorch  | 11 | Math/Mechanics | [Link](https://github.com/aaryadevg/PytorchPINN) |
 | **my-books** | A curated collection of books spanning Computer Science, Computer Engineering, Physics, Mechatronics, Mathematics, AI, and Drone Technology. Organized in CSV format with personal reading progress tracking. | 0 | Math/Mechanics | [Link](https://github.com/maziyar-redox/my-books) |
